@@ -4,7 +4,7 @@ h1,h2,h3,h4,h5,h6 { font-weight:normal; letter-spacing:-1px; margin:0; padding:0
 ul, ol {margin:0; padding:0; list-style-position:inside;}
 h2 {font-size:18px;}
 
-#header {height:77px; background:#a00 url("/images/header.png") scroll repeat-x 0 0; position:relative; overflow:visible;}
+#header {height:77px; background:#a00 url("/images/head.png") scroll repeat-x 0 0; position:relative; overflow:visible;}
 #header h1 {color:#FFF; position:absolute; left:100px; top:20px; font-size:18px;}
 #header h1 span.intro {display:block; font-weight:bold; margin-bottom:4px; font-size:22px;}
 #header h1 span.intro span {font-weight:normal; font-size:.65em}
